@@ -1,6 +1,11 @@
 # Python-Pandas-Exercises
 This repo will hold examples of the exercises and projects I complete during the course of my UBC Data Science Certificate program.
 
+I learnt about:
+- Data manipulations using Pandas
+- Altair vizualizations 
+- Table Manipulation and Chaining
+
 Pandas Scatter Plot
 
 ![scatter_bmi](https://user-images.githubusercontent.com/84794517/214994313-5295146e-40af-4bdc-9f9b-2d20da45bb8d.jpg)
